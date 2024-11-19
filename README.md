@@ -12,6 +12,8 @@ Artificial Intelligence and Machine Learning Projects and Lab Instruction Sheets
 10. [Lab 10](https://github.com/kirankumareranki/AIML-2025/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Iris Data
 
 Lab Code Notebooks
+
+
 [Lab 01](https://github.com/2303A51867/2303A51867.aiml/blob/main/Lab01_AIML.ipynb)<br>
 [Lab 02](https://github.com/2303A51867/2303A51867.aiml/blob/main/Lab02_AIML.ipynb)<br>
 [Lab 03](https://github.com/2303A51867/2303A51867.aiml/blob/main/Lab03_AIML.ipynb)<br>
